@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Flutter.
 
-🎓 I recently graduated from the university of Arkansas and I am looking to continue developing my career. I am excited to continue growing professionally and excited to learn new tools to be a better developer.
+🎓 I recently graduated from the university of Arkansas and I am looking to continue developing my career. I am excited to continue growing professionally and to learn new tools to be a better developer.
 
 📄 My Resume https://estebanduran-portafolio.netlify.app/resume.html
 
