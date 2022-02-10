@@ -3,7 +3,7 @@
 
 👀 I’m interested in Mobile and website developement, backend developement, and UI/UX design.
 
-🌱 I’m currently learning Flutter.
+🌱 I’m currently learning React.
 
 🎓 I recently graduated from the university of Arkansas and I am looking to continue developing my career. I am excited to continue growing professionally and to learn new tools to be a better developer.
 
