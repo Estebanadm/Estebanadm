@@ -11,4 +11,5 @@
 
 📫 You can contact me https://estebanduran-portafolio.netlify.app/contact.html or by email estebanduranmarti@gmail.com
 
-➕ More about me https://estebanduran-portafolio.netlify.app/index.html
+➕ More about me https://estebanduran-portafolio.netlify.app
+
